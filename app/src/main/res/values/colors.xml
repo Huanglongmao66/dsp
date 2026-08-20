@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 主色：暗黑色系，沉浸式体验 -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="white_90">#E6FFFFFF</color>
+    <color name="white_70">#B3FFFFFF</color>
+    <color name="white_50">#80FFFFFF</color>
+    <color name="white_30">#4DFFFFFF</color>
+    <color name="like_red">#FFFE2C55</color>
+    <color name="comment_blue">#FF25F4EE</color>
+    <color name="share_yellow">#FFFFCD00</color>
+    <color name="music_cd">#FF1A1A1A</color>
+    <color name="overlay_shadow">#66000000</color>
+</resources>

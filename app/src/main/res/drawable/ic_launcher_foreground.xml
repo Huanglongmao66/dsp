@@ -1,0 +1,23 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- 抖音风格主图标：一个播放按钮叠加在音符上 -->
+    <!-- 外层圆形渐变背景 -->
+    <path
+        android:fillColor="#FFFE2C55"
+        android:pathData="M54,22 C36.3,22 22,36.3 22,54 C22,71.7 36.3,86 54,86 C71.7,86 86,71.7 86,54 C86,36.3 71.7,22 54,22 Z"/>
+    <!-- 内圈黑色，形成logo样式 -->
+    <path
+        android:fillColor="#FF000000"
+        android:pathData="M54,30 C40.7,30 30,40.7 30,54 C30,67.3 40.7,78 54,78 C67.3,78 78,67.3 78,54 C78,40.7 67.3,30 54,30 Z"/>
+    <!-- 青色音符 -->
+    <path
+        android:fillColor="#FF25F4EE"
+        android:pathData="M45,42 L45,64 C45,67.9 41.3,71 36.8,71 C32.3,71 29,67.9 29,64 C29,60.1 32.3,57 36.8,57 C38.3,57 39.8,57.4 41,58.1 L41,45 L66,39 L66,64 C66,67.9 62.3,71 57.8,71 C53.3,71 50,67.9 50,64 C50,60.1 53.3,57 57.8,57 C59.3,57 60.8,57.4 62,58.1 L62,45 L45,48 Z"/>
+    <!-- 红色播放三角 -->
+    <path
+        android:fillColor="#FFFE2C55"
+        android:pathData="M60,46 L73,54 L60,62 Z"/>
+</vector>
